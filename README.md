@@ -120,6 +120,7 @@ npm run build
 
 Deploy the build folder to Netlify or any hosting platform.
 
+---
 
 ## ⭐ Support
 
