@@ -1,0 +1,73 @@
+.footer-section {
+    background-color: black;
+    padding: 50px 30px 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.navbar-brands {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: black;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+
+.nav-logo {
+    height: 50px;
+    width: 150px;
+    margin-left: 5px;
+}
+
+.logo {
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 100%;
+}
+
+.description {
+    color: #fff;
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+
+.subscribe-box {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.subscribe-box input {
+    padding: 12px 15px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    width: 250px;
+    background-color: #1e2035;
+    color: #fff;
+    font-size: 14px;
+}
+
+.subscribe-box button {
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color:  #8b0202;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.subscribe-box button:hover {
+    background-color: #e89d85;
+}
+
+.footer-section .copyright {
+    margin-top: 30px;
+    color: #c79aa0;
+    font-size: 13px;
+}
